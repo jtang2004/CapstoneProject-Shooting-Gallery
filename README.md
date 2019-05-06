@@ -12,3 +12,5 @@ The third class creates the background that is to be displayed behind the target
 The fourth class gets the target color, size, and the points gained from the basic target class.
 
 Lastly, the final class prints and displays the targets onto the gallery/ frame. 
+
+A bonus class that might be added will have different colored targets and if hit, will reward the player with extra points. The extra point targets will be harder to hit, but if missed will not be added to accuracy(percentage).
