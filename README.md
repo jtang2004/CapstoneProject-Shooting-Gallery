@@ -1,3 +1,3 @@
-# CapstoneProject-Shooting-Gallery
-For P6 Team Freshies Java
-ohowadjopidaw
+# CapstoneProject: Shooting Gallery
+P6 Team Freshies Java
+
